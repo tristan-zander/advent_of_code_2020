@@ -5,7 +5,7 @@ fn main() {
     let mut buf = String::new();
     let mut input = Vec::<i32>::new();
     let mut file = File::open("input").unwrap();
-    let lines_read = file.read_to_string(&mut buf).unwrap();
+    let _lines_read = file.read_to_string(&mut buf).unwrap();
     let vectored_file = buf.split("\n");
     for line in vectored_file {
         if line.len() > 0 {

@@ -1,5 +1,4 @@
 use day2::*;
-use std::ops::Index;
 
 fn main() {
     let inputs = get_inputs("../input");
