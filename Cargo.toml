@@ -1,5 +1,12 @@
 [workspace]
 members = [
     "day1",
-    "day2"
+    "day1/part2",
+    "day2",
+    "day2/p1",
+    "day2/p2",
+    # USE THIS NAMING CONVENTION PLS TNX
+    "day3",
+    "day3-p1",
+    "day3-p2"
 ]
