@@ -66,6 +66,21 @@ dependencies = [
 ]
 
 [[package]]
+name = "day6"
+version = "0.1.0"
+
+[[package]]
+name = "day6p1"
+version = "0.1.0"
+dependencies = [
+ "day6",
+]
+
+[[package]]
+name = "day6p2"
+version = "0.1.0"
+
+[[package]]
 name = "hex"
 version = "0.4.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
